@@ -1,5 +1,5 @@
 # banco_sky
-projeto de desafio para criação do banco SKY
+projeto de desafio para criação do banco SKY e testes finalizados com sucesso.
 
 ## Linguagens e Ferramentas utilizadas no Projeto:
 
