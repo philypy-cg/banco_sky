@@ -1,5 +1,5 @@
 # banco_sky
-projeto de desafio para criação do banco SKY e testes finalizados com sucesso.
+projeto de desafio para criação do banco SKY e testes finalizados com sucesso. Resoluções no URI realizadas 
 
 ## Linguagens e Ferramentas utilizadas no Projeto:
 
